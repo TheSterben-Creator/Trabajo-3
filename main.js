@@ -14,7 +14,7 @@ addBtn.addEventListener("click", (e) => {
         const p = document.createElement("p");
         p.textContent = text;
 
-        // Crea un contenedor para los botones
+        // Contenedor para los botones
         const buttonContainer = document.createElement("div");
         buttonContainer.className = "button-container"; // Clase para el contenedor de botones
 
